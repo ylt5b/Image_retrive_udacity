@@ -1,2 +1,3 @@
 # Image_retrive_udacity
-This file is for a project 
+Implement image retrieval with color feature, hog features. And reduce the time complexity by using k-means.
+
